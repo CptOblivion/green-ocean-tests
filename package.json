@@ -47,10 +47,11 @@
   },
   "dependencies": {
   },
-  ".prettier": {
-    "trailingComma": "es5",
+  "prettier":{
+    "trailingComma": "all",
     "tabWidth": 2,
-    "semi": false,
-    "singleQuote": true
+    "semi": true,
+    "singleQuote": true,
+    "useTabs": false
   }
 }
